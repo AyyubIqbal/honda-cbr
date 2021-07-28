@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-header{
+    background-color: #264653;
+}
+/* .purchase-btn{
+    color: white;
+    cursor: pointer;
+    padding: 10px 25px;
+    background-color: #E76F51;
+    border-radius: 10%;
+} */
+.img-gray{
+    filter: grayscale(100%);
+}
